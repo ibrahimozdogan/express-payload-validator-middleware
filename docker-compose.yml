@@ -7,4 +7,4 @@ services:
       - "80:3333"
     volumes:
       - .:/var/example-api
-      - /var/express-payload-validator-middleware/node_modules
+      - /var/example-api/node_modules
