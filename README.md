@@ -25,7 +25,7 @@ git clone https://github.com/ibrahimozdogan/express-payload-validator-middleware
 Open project directory.
 
 ```bash
-cd todo
+cd express-payload-validator-middleware
 ```
 
 Run `docker-compose up` command. Then, Enjoy...
