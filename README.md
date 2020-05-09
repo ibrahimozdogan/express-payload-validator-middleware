@@ -35,7 +35,7 @@ docker-compose up
 ```
 
 ```tip
-You can access the node-js api via http://localhost:80,
+You can access the node-js api via http://localhost:80
 ```
 
 Any questions : <halilibrahimozdogan2@gmail.com>
