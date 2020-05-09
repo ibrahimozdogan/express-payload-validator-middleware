@@ -1,0 +1,10 @@
+version: '3'
+services:
+  example_api:
+    container_name: example_api
+    build: .
+    ports:
+      - "80:3333"
+    volumes:
+      - .:/var/example-api
+      - /var/varco-api/node_modules
