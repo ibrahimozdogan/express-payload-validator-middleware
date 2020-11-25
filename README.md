@@ -1,5 +1,5 @@
 # express-payload-validator-middleware
-Simple Payload Validator in express written with typescript
+Simple Payload Validator
 
 Created for Medium
 
@@ -38,4 +38,4 @@ docker-compose up
 You can access the node-js api via http://localhost:80
 ```
 
-Any questions : <halilibrahimozdogan2@gmail.com>
+Any questions : <me@ibrahimozdogan.com>
