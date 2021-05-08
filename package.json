@@ -24,7 +24,7 @@
     "nodemon": "2.0.2",
     "ts-node": "8.7.0",
     "typescript": "3.8.3",
-    "typeorm": "0.2.24",
+    "typeorm": "0.2.25",
     "reflect-metadata": "0.1.13",
     "eslint": "6.8.0"
   },
